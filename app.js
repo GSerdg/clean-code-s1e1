@@ -31,6 +31,7 @@ var createNewTaskElement = function (taskString) {
     editInput.classList.add('item__input', 'item__input_added');
     checkBox.classList.add('item__check');
     deleteButtonImg.classList.add('item__delete_icon');
+    deleteButtonImg.setAttribute('alt', 'remove icon');
 
     label.innerText = taskString;
     label.className = 'item__title';
