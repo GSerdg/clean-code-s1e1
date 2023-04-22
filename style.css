@@ -10,6 +10,10 @@
   margin: 0 auto;
 }
 
+.wrapper__add {
+  padding-top: 16px;
+}
+
 .wrapper_format {
   text-align: right;
 }
@@ -19,7 +23,7 @@
   .wrapper_format {
     text-align: center;
   }
-  
+
 }
 
 .wrapper__img {
