@@ -15,9 +15,11 @@
 }
 
 @media (max-width: 768px) {
+
   .wrapper_format {
     text-align: center;
   }
+  
 }
 
 .wrapper__img {
